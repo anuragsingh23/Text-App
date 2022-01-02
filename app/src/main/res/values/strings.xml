@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">TextApp</string>
+    <string name="chats">Chats</string>
+    <string name="profile">Profile</string>
+    <string name="users">Users</string>
 </resources>
